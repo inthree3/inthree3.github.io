@@ -1,8 +1,12 @@
+logo: "./_site/assets/images/character_cactus.png"
 title: Korean Cactus
 description: A GISTian Blog Posting about Tech, Startup, and Readings
 theme: just-the-docs
 
-url: https://inthree3.github.io/cactus
+url: https://inthree3.github.io/
 
 aux_links:
   Template Repository: https://github.com/inthree3/cactus
+
+plugins:
+  - jekyll-default-layout
