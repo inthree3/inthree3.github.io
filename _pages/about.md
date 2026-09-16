@@ -27,6 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+Hello, world.
+I'm Inseon Hwang. I'm a motivation-driven person. Interested in application level technology and now I'm just more focused on research.
+From my definition, it's reading a lots of paper and reference it when I make a new approach and doing experiments in the manner of sciecne.
+
+My interest are but not limited to machine learning infrastructure, computer vision, niche interests are human simulation, visional synthetic analysis, coowhy 
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
